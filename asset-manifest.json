@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YassineSnaiki/eat-n-split/static/css/main.e105b6b5.css",
+    "main.js": "/YassineSnaiki/eat-n-split/static/js/main.a04da8af.js",
+    "index.html": "/YassineSnaiki/eat-n-split/index.html",
+    "main.e105b6b5.css.map": "/YassineSnaiki/eat-n-split/static/css/main.e105b6b5.css.map",
+    "main.a04da8af.js.map": "/YassineSnaiki/eat-n-split/static/js/main.a04da8af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e105b6b5.css",
+    "static/js/main.a04da8af.js"
+  ]
+}
